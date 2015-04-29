@@ -5,7 +5,7 @@ using System.Security.Claims;
 
 namespace SimpleSec.ClaimsTransformation.Extensions
 {
-    internal static class ClaimsExtensions
+    public static class ClaimsExtensions
     {
         public static Claim Find(this IEnumerable<Claim> claims, string type)
         {
