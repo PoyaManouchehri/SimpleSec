@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimpleSec.ClaimsTransformation</id>
+    <version>0.0.0</version>
+    <title>SimpleSec Claims Transformation</title>
+    <authors>Poya Manouchehri</authors>
+    <owners>Poya Manouchehri</owners>
+    <projectUrl>https://github.com/PoyaManouchehri/SimpleSec</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    
+    <summary>Basic transformation of claims</summary>
+    
+    <copyright>Copyright 2015</copyright>
+    
+    <tags>SimpleSec Security Claims Transformation</tags>
+  </metadata>
+</package>
